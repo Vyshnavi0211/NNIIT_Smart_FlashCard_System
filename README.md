@@ -53,4 +53,5 @@ Shuffle to mix subjects.
 Only return flashcards for the given student
 
 INSTALLATION
-pip install fastapi uvicorn
+pip install fastapi 
+pip install uvicorn
